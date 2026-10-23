@@ -1,5 +1,5 @@
-#Task 1 – UI/UX Design
-###Overview
+ # Task 1 – UI/UX Design
+## Overview
 
 This project was completed as part of my UI/UX internship at CodeAlpha.
 
