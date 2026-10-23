@@ -3,24 +3,30 @@ Overview
 
 This project was completed as part of my UI/UX internship at CodeAlpha.
 
-## Design Screenshots
+Design Screenshots
+Splash Screen
 
- Splash Screen
-![Splash Screen](Splash%20screen.jpg)
+!Splash Screen
 
-### Home Page
-![Home Page](Home%20page.jpg)
+Home Page
 
-### All Courses
-![All Courses](All%20courses.jpg)
+!Home Page
 
-### Course Details
-![Course Details](Course%20details.jpg)
+All Courses Page
 
-### Quiz Page
-![Quiz Page](Quiz%20page.jpg)
+!All Courses
 
-### Profile Page
-![Profile Page](Profile%20page.jpg)
+Course Details Page
+
+!Course Details
+
+Quiz Page
+
+!Quiz Page
+
+Profile Page
+
+!Profile Page
+
 
 [View the complete design on Figma](https://www.figma.com/design/zSjHwGYuooUEKoR5IYCEDC/CodeAlpha_Task1?node-id=28-849&t=LqfJ1k5MOjiPkq8X-1)
