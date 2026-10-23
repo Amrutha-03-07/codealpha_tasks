@@ -1,32 +1,27 @@
-Task 1 – UI/UX Design
+#Task 1 – UI/UX Design
 Overview
 
 This project was completed as part of my UI/UX internship at CodeAlpha.
 
-Design Screenshots
-Splash Screen
+**## Design Screenshots**
 
-!Splash Screen
+### Splash screen
+![Splash screen](splash.jpeg)
 
-Home Page
+### Profile Page
+![Profile Page](Profile.jpeg)
 
-!Home Page
+### Home Page
+![Home Page](Home.jpeg)
 
-All Courses Page
+### All courses
+![All courses](All.jpeg)
 
-!All Courses
+### Course Details
+![Course Details](Course.jpeg)
 
-Course Details Page
-
-!Course Details
-
-Quiz Page
-
-!Quiz Page
-
-Profile Page
-
-!Profile Page
+### Quiz Page
+![Quiz Page](Quiz.jpeg)
 
 
 [View the complete design on Figma](https://www.figma.com/design/zSjHwGYuooUEKoR5IYCEDC/CodeAlpha_Task1?node-id=28-849&t=LqfJ1k5MOjiPkq8X-1)
